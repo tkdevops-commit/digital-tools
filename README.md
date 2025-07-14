@@ -36,7 +36,7 @@ Can be used in conjunction with online design and content editing software like:
 - Overlay graphic editors
 - Third party visual and video editing platforms
   
-*Constantly reviewing and adding features as this is a personal project
+*Constantly reviewing and adding features to this personal project as this is something I work on in my free time.
 
 ---
 
