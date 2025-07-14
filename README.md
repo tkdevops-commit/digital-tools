@@ -34,7 +34,7 @@ Can be used in conjunction with online design and content editing software like:
 - Canva
 - Adobe
 - Social media graphics
-- Thirs party platforms
+- Third party visual and video editing platforms
   
 *Constantly reviewing and adding features as this is a personal project
 
