@@ -11,7 +11,7 @@ This project is built to help educators, creators, and professionals turn ideas 
 Browse the avaialble tools:
 
 1. World Map Illustrator  
-Create interactive and customizable world maps to visualize geopolitical data, statistics, and cultural facts. Perfect for infographics, social media, or educational content.  
+Create interactive and customizable world maps to visualize geopolitical data, statistics, and cultural facts. Perfect for infographics, presentations, or educational content.  
 
 ### 🌍 World Map Illustrator  
 Create interactive and customizable world maps to visualize.  
