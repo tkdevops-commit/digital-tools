@@ -36,6 +36,7 @@ Can be used in conjunction with online design and content editing software like:
 - Social media graphics
 - Thirs party platforms
   
+*Constantly reviewing and adding features as this is a personal project
 
 ---
 
