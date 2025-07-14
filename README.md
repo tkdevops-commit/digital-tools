@@ -26,7 +26,7 @@ Browse the avaialble tools:
 Create interactive and customizable world maps to visualize geopolitical data, statistics, and cultural facts. Perfect for infographics, presentations, or educational content.  
 
 ### 🌍 World Map Illustrator  
-Interactive world map that allows you to colour individual countries and save using SVG format.  
+Interactive world map that allows you to colour individual countries and save files using SVG format.  
 
 https://tkdevops-commit.github.io/StatAtlas/
 
