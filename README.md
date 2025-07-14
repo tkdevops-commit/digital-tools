@@ -6,7 +6,15 @@ This project is built to help educators, creators, and professionals turn ideas 
 
 The purpose is to build supporting digital tools for larger digital, madia, business and enterprise based projects. 
 
-All avaliable tools will listed on this readme page, just read the tool description and click the hyperlink.
+All avaliable tools will listed on this readme page.
+
+---
+
+## 📌 How to Use
+
+1. Click the link next to the tool name to open it in your browser.
+2. Use the tool directly—no downloads or setup needed.
+3. Export or capture your results for use on websites, social media, or presentations.
 
 ---
 
@@ -26,14 +34,6 @@ https://tkdevops-commit.github.io/StatAtlas/
 
 _More tools coming soon…
 Each new tool will be added to this list with a brief description and direct link for browser access.
-
----
-
-## 📌 How to Use
-
-1. Click the link next to the tool name to open it in your browser.
-2. Use the tool directly—no downloads or setup needed.
-3. Export or capture your results for use on websites, social media, or presentations.
 
 ---
 
