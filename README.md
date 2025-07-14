@@ -30,6 +30,13 @@ Interactive world map that allows you to colour individual countries and save us
 
 https://tkdevops-commit.github.io/StatAtlas/
 
+Can br used in conjunction with online design and content editing software like:
+- Canva
+- Adobe
+- Social media graphics
+- Thirs party platforms
+  
+
 ---
 
 _More tools coming soon…
