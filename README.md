@@ -1,4 +1,4 @@
-# 🧰 Digital Content Toolkit
+# 🧰 Digital Toolkits
 
 Welcome to the **Digital Content Toolkit** – a curated collection of lightweight, browser-based tools designed to support content creation across multiple digital platforms. All tools are hosted on GitHub Pages, so there's nothing to install—just click and create.
 
