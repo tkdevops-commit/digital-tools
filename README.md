@@ -4,7 +4,7 @@ Welcome to the **Digital Content Toolkit** – a curated collection of lightweig
 
 This project is built to help educators, creators, and professionals turn ideas into impactful visual content quickly and easily.
 
-The purpose is to build supporting digital tools for larger digital, madia, business and enterprise based projects. 
+The purpose is to build supporting digital tools for larger digital, madia, marketing/advertising, business and enterprise based projects and campaigns. 
 
 All avaliable tools will listed on this readme page.
 
