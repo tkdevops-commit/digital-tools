@@ -15,7 +15,8 @@ Create interactive and customizable world maps to visualize geopolitical data, s
 
 ### 🌍 World Map Illustrator  
 Create interactive and customizable world maps to visualize.  
-🔗 [Open in browser](https://tkdevops-commit.github.io/StatAtlas/worldmapillustrator.html)
+
+https://tkdevops-commit.github.io/StatAtlas/
 
 ---
 
