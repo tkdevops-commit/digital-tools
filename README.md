@@ -8,7 +8,14 @@ This project is built to help educators, creators, and professionals turn ideas 
 
 ## 🌐 Available Tools
 
-Browse the avaialble toold via file system.
+Browse the avaialble tools:
+
+1. World Map Illustrator  
+Create interactive and customizable world maps to visualize geopolitical data, statistics, and cultural facts. Perfect for infographics, social media, or educational content.  
+
+### 🌍 World Map Illustrator  
+Create interactive and customizable world maps to visualize.  
+🔗 [Open in browser](https://tkdevops-commit.github.io/StatAtlas/worldmapillustrator.html)
 
 ---
 
