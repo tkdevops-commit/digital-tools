@@ -34,7 +34,7 @@ Can be used in conjunction with online design and content editing software like:
 - Canva
 - Adobe
 - Overlay graphic editors
-- Third party visual and video editing platforms
+- Third party visual and video editing platforms/sofetware
 - OBS
   
 *Constantly reviewing and adding features to this personal project as this is something I work on in my free time.
