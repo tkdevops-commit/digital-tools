@@ -23,7 +23,7 @@ All avaliable tools will listed on this readme page.
 Browse the avaialble tools:
 
 1. World Map Illustrator  
-Create interactive and customizable world maps to visualize geopolitical data, statistics, and cultural facts. Perfect for infographics, presentations, or educational content.  
+Create interactive and customizable world maps to visualise geopolitical data, statistics, and cultural facts. Perfect for infographics, presentations, or educational content.  
 
 ### 🌍 World Map Illustrator  
 Interactive world map that allows you to colour individual countries and save files using SVG format.  
@@ -34,10 +34,10 @@ Can be used in conjunction with online design and content editing software like:
 - Canva
 - Adobe
 - Overlay graphic editors
-- Third party visual and video editing platforms/sofetware
+- Third party visual and video editing platforms/software
 - OBS
   
-*Constantly reviewing and adding features to this personal project as this is something I work on in my free time.
+*Constantly reviewing and adding features to this personal project.
 
 ---
 
