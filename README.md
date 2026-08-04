@@ -30,7 +30,7 @@ Interactive world map that allows you to colour individual countries and save fi
 
 https://tkdevops-commit.github.io/StatAtlas/
 
-https://github.com/tkdevops-commit/atlasstudio
+https://tkdevops-commit.github.io/atlasstudio/
 
 Can be used in conjunction with online design and content editing software like:
 - Canva
